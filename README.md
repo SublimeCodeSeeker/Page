@@ -1,2 +1,2 @@
 # repo
-Es es un repo para el proyecto final de becalos Tech Challenge
+De aqui sale el entregable para el proyecto final, es decir, se continua, pero por mientras es el entregable del penultimo modulo
